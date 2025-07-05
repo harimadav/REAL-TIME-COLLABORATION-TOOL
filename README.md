@@ -1,8 +1,13 @@
 OMPANY: CODETECH IT SOLUTIONS
+
 NAME: S HARI SHANKAR
+
 DOAMIN: SOFTWARE DEVELOPMENT
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTHOSH 
+
 
 # 🧑‍💻 Real-Time Collaborative Tool – Internship Task 3
 
