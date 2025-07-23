@@ -84,18 +84,20 @@ Here are a few visuals demonstrating the functionality of the project.
 - Socket.IO (WebSocket protocol)  
 
 
+## 🔗 Developer Contact
+
+- 👨‍💻 *Name:* S HARI SHANKAR  
+- 📫 *Email:* hari.240123@cse.ritchennai.edu.in  
+- 📍 *Location:* Chennai, Tamil Nadu  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/s-hari-shankar-27279732b)  
+- 🖥 [GitHub](https://github.com/harimadav)  
+- 📷 [Instagram](https://www.instagram.com/shankar_s.hari)
+
+  
+
 ## ✅ Conclusion
 
 Through this project, I gained hands-on experience with real-time data exchange, collaborative programming logic, and Flask + WebSocket integration. It has improved my understanding of *multi-user state synchronization* and how to build tools for live interaction. This task was a stepping stone toward building scalable, responsive, and user-centric web applications.
 
 
-
-## 📬 Contact
-
-*Name:* S HARI SHANKAR  
-*📱 Phone:* +91 8124607922  
-*📧 Email:* hari.240123@cse.ritchennai.edu.in  
-*📍 Location:* Chennai, Tamil Nadu  
-*🔗 LinkedIn:* [Click Here](https://www.linkedin.com/in/s-hari-shankar-27279732b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-*🐱 GitHub:* [Your GitHub Profile](https://github.com/harimadav)
 
