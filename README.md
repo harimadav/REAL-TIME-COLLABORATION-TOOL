@@ -1,19 +1,5 @@
 # REAL-TIME COLLABORATION TOOL
 
-*COMPANY* : CODETECH IT SOLUTIONS
-
-*NAME* : S HARI SHANKAR
-
-*INTERN ID* : CT04DH297
-
-*DOMAIN* : SOFTWARE DEVELOPMENT
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTHOSH
-
-
-
 ## 📌 Project Overview
 
 This project is part of my internship at *CodTech IT Solutions* under *Task 3: Real-Time Collaboration Tool Development. The aim was to create a **Google Docs–like platform* that enables multiple users to collaborate on note-taking or coding in real-time.
